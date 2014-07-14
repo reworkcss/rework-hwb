@@ -1,0 +1,39 @@
+{
+  "name": "rework-hwb",
+  "version": "0.0.1",
+  "description": "Rework plugin for hwb/hwba color functions",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "balanced-match": "^0.1.0",
+    "rework": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddprrt/rework-hwb"
+  },
+  "keywords": [
+    "hwb",
+    "hwba",
+    "color",
+    "color",
+    "model",
+    "css",
+    "rework",
+    "postprocess"
+  ],
+  "author": "Stefan Baumgartner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddprrt/rework-hwb/issues"
+  },
+  "homepage": "https://github.com/ddprrt/rework-hwb"
+}

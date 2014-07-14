@@ -1,14 +1,14 @@
 body {
-	color: hwba(90deg, 0, 0, 0.5);
-	background-color: hwb(190deg, 50%, 0);
+  color: hwba(90deg, 0, 0, 0.5);
+  background-color: hwb(190deg, 50%, 0);
 }
 
 div {
-	color: hwb(100, 100%, 0);
-	background-color: hwb(100, 0, 100%);
+  color: hwb(100, 100%, 0);
+  background-color: hwb(100, 0, 100%);
 }
 
 a {
-	color: hwb(20, 50%, 50%);
-	background-color: hwb(40, 70%, 70%);
+  color: hwb(20, 50%, 50%);
+  background-color: hwb(40, 70%, 70%);
 }
