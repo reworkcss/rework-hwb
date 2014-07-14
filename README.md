@@ -1,7 +1,7 @@
 rework-hwb
 ==========
 
-Rework plugin for hwb/hwba color functions, as proposed in [CSS Color Module Level 4 Working Draft](http://dev.w3.org/csswg/css-color/#the-hwb-notation).
+Rework plugin for hwb color functions, as proposed in [CSS Color Module Level 4 Working Draft](http://dev.w3.org/csswg/css-color/#the-hwb-notation).
 
 ## Introduction
 
@@ -39,7 +39,7 @@ And start using it:
 ```
 body {
 	// results in rgba(127, 255, 0, 0.5)
-	background-color: hwba(90deg, 0, 0, 0.5);
+	background-color: hwb(90deg, 0, 0, 0.5);
 	// results in rgb(127,233,255)
 	color: hwb(190deg, 0.5, 0);
 }

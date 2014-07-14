@@ -1,5 +1,5 @@
 body {
-  color: hwba(90deg, 0, 0, 0.5);
+  color: hwb(90deg, 0, 0, 0.5);
   background-color: hwb(190deg, 50%, 0);
 }
 

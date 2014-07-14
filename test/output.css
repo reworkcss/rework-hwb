@@ -1,6 +1,6 @@
 body {
-  color: rgba(127,255,0,0.5);
-  background-color: rgb(127,233,255);
+  color: rgba(128,255,0,0.5);
+  background-color: rgb(128,234,255);
 }
 
 div {
@@ -9,6 +9,6 @@ div {
 }
 
 a {
-  color: rgb(127,127,127);
-  background-color: rgb(127,127,127);
+  color: rgb(128,128,128);
+  background-color: rgb(128,128,128);
 }
