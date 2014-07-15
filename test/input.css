@@ -1,11 +1,11 @@
 body {
-  color: hwb(90deg, 0, 0, 0.5);
-  background-color: hwb(190deg, 50%, 0);
+  color: hwb(90, 0%, 0%, 0.5);
+  background-color: hwb(190, 50%, 0%);
 }
 
 div {
-  color: hwb(100, 100%, 0);
-  background-color: hwb(100, 0, 100%);
+  color: hwb(100, 100%, 0%);
+  background-color: hwb(100, 0%, 100%);
 }
 
 a {
