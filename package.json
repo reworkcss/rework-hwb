@@ -1,6 +1,6 @@
 {
   "name": "rework-hwb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Rework plugin for hwb/hwba color functions",
   "main": "lib/index.js",
   "directories": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ddprrt/rework-hwb"
+    "url": "https://github.com/reworkcss/rework-hwb"
   },
   "keywords": [
     "hwb",
@@ -35,7 +35,7 @@
   "author": "Stefan Baumgartner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ddprrt/rework-hwb/issues"
+    "url": "https://github.com/reworkcss/rework-hwb/issues"
   },
-  "homepage": "https://github.com/ddprrt/rework-hwb"
+  "homepage": "https://github.com/reworkcss/rework-hwb"
 }
