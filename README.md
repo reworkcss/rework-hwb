@@ -1,7 +1,7 @@
-# rework-hwb
+# rework-hwb [![Build Status](https://travis-ci.org/reworkcss/rework-hwb.png)](https://travis-ci.org/reworkcss/rework-hwb)
 
 
-Rework plugin for hwb color functions, as proposed in [CSS Color Module Level 4 Working Draft](http://dev.w3.org/csswg/css-color/#the-hwb-notation).
+A Rework plugin for hwb color functions, as proposed in [CSS Color Module Level 4 Working Draft](http://dev.w3.org/csswg/css-color/#the-hwb-notation).
 
 ## Introduction
 
