@@ -38,10 +38,8 @@ And start using it:
 
 ```css
 body {
-	// results in rgba(127, 255, 0, 0.5)
-	background-color: hwb(90deg, 0, 0, 0.5);
-	// results in rgb(127,233,255)
-	color: hwb(190deg, 0.5, 0);
+  background-color: hwb(90deg, 0, 0, 0.5); /* results in rgba(127, 255, 0, 0.5) */
+  color: hwb(190deg, 0.5, 0); /* results in rgb(127,233,255) */
 }
 ```
 
