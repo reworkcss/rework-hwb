@@ -1,5 +1,5 @@
-rework-hwb
-==========
+# rework-hwb
+
 
 Rework plugin for hwb color functions, as proposed in [CSS Color Module Level 4 Working Draft](http://dev.w3.org/csswg/css-color/#the-hwb-notation).
 
@@ -10,7 +10,7 @@ The HWB color model is coming to CSS, and you can use it right now with Sass. Re
 
 ## Installation
 
-```
+```shell
 $ npm install rework-color-hwb
 ```
 
@@ -18,7 +18,7 @@ $ npm install rework-color-hwb
 
 Example Rework code:
 
-```
+```js
 'use strict';
 
 var fs    = require('fs'),
@@ -36,7 +36,7 @@ fs.writeFileSync('dist/main.output.css', output);
 
 And start using it:
 
-```
+```css
 body {
 	// results in rgba(127, 255, 0, 0.5)
 	background-color: hwb(90deg, 0, 0, 0.5);
